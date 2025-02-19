@@ -1,0 +1,4 @@
+API(Applicaction Programming interface) - Interface de programação de aplicativos:
+    1-Conjunto de rotinas e padrões de programação
+    2-Tem como objetivo acessar aplicativos de software
+    3-Plataformas baseados na web

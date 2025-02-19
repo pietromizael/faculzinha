@@ -1,0 +1,23 @@
+semantica é relacionado ao conteúdo, ao significado, ao sentido.
+sintaxe é relacionado à forma, à estrutura, à organização, as regras.
+
+exemplo de algoritimo:
+    receita de bolo:
+        1. pegue os ingredientes
+        2. misture os ingredientes
+        3. coloque a mistura em uma forma
+        4. leve ao forno
+        5. espere assar
+        6. retire do forno
+        7. espere esfriar
+        8. sirva
+
+    calcular a media de prova:
+        1. some as notas
+        2. divida o resultado pelo número de notas
+        3. se a média for maior ou igual a 7, o aluno está aprovado
+        4. se a média for menor que 7, o aluno está reprovado
+
+linguagens de programação tratam os dados de um computador por meio de uso de instruções(algoritimos).
+
+algoritimos + logica de programação + estrutura de dados = linguagem
