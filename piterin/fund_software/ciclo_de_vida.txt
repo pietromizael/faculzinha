@@ -1,0 +1,14 @@
+SDLC(Software Development Life Cycle)
+
+Quatro atividades são comuns a todos os processos de software:
+    1-Especificação
+    2-Desenvolvimento
+    3-Validação
+    4-Evolução
+
+Metodologia Ágil:
+    1-Alternativa para gestão de projetos tradicionais
+    2-Desenvolvimento iterativo e incremental
+    3-Foco no software e não no projeto
+    4-Adequada a aplicações que os requisitos mudam com frequência
+    5-Duas abordagens: o extreme programming(XP) e o Scrum
