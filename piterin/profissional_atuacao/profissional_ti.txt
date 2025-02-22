@@ -1,0 +1,40 @@
+Engenheiro de software:
+    1-Escolhe o modelo de processo, gerência e produção a serem implementados
+    2-Acompanha e avalia o desenvolvimento
+    3-Verifica se o processo é executado de forma eficiente e efetiva
+    4-Reavalia o processo continuamente
+
+Analista: 
+    1-Responsável pela compreensão do problema
+    2-Levantamento dos requistos e modelagem
+    3-Descobrir o que o cliente precisa
+
+Programador: 
+    1-Construir a solução fisica a partir das especificaçoes
+    2-Conhecimento profundo em linguagens de programação
+    3-Desenvolver e testar o software
+
+Engenheiro da computação:
+    1-Base sólida em matemática e física
+    2-Apto a desenvolvimento de hardware e software
+    5-Junção entre engenharia elétrica e ciência da computação
+
+Gestor de TI:
+    1-Responsável pela gestão de recursos
+    2-Tratamento, armazenamento e proteção de sólida
+    3-Conhecimento em marketing e administração
+
+Cientista de dados:
+    1-Reúne e interpreta dados
+    2-Especialista analitico
+    3-Capacidade de ler, escrever, comunicar e raciocinar com dados
+
+Adm de redes:
+    1-Responsável pela infraestrutura de redes
+    2-Configuração e manutenção de servidores
+    3-Implementação de políticas de segurança
+
+Adm de banco de dados:
+    1-Responsável pela gestão de dados
+    2-Desenvolvimento e manutenção de banco de dados
+    3-Implementação de políticas de segurança
