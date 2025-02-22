@@ -1,0 +1,6 @@
+A crise do software se refere ao problema que existia em que o software
+não acompanhava o desenvolvimento do hardware.
+
+O desenvolvimento de software era feito de maneira informal,
+quem desenvolvia não tinha formação. Somente a partir de 1965
+que a Engenharia de Software foi criada.
