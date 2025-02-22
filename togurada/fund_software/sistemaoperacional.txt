@@ -1,0 +1,11 @@
+diferença entre software e sistema:
+    software é um conjunto de instruções que dizem ao computador o que fazer.
+    já o sistema é um conjunto de partes que juntas formam um todo, ou seja,
+    o sistema é o conjunto de hardware e software que juntos formam o computador.
+
+algoritimo é uma sequência finita de instruções bem definidas e não ambíguas, cada uma das 
+quais deve ser executada mecânicamente em um intervalo de tempo finito e com uma quantidade
+de esforço finita.
+
+sistema operaiconal é uma camada de software entre o hardware e o software.
+
