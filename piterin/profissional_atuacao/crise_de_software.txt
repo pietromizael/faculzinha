@@ -4,3 +4,5 @@ não acompanhava o desenvolvimento do hardware.
 O desenvolvimento de software era feito de maneira informal,
 quem desenvolvia não tinha formação. Somente a partir de 1965
 que a Engenharia de Software foi criada.
+
+Bug é um erro no software, que pode ser corrigido.
