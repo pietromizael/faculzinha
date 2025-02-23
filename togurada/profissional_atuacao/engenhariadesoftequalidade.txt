@@ -1,0 +1,9 @@
+Software de qualidade é aquele que atende todos os requisitos, ele desempenha todas
+as funções para o qual foi desenvolvido. Existem vários fatores de qualidade de
+software, alguns deles são citados a seguir.
+Facil de manter: manutenibilidade – é fácil fazer modificações e correções
+Desempenho: quando a gente fala em desempenho em computação, estamos nos
+referindo a tempo
+Confiável: confiabilidade, envolve tolerância a falhas, o sistema é capaz de se recuperar
+após uma falha?
+Fácil de usar - usabilidade

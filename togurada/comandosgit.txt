@@ -1,0 +1,19 @@
+git init - inicia o repositorio
+git add . - adiciona as atualizacoes 
+git commit -m "nome da file" comenta oq foi feito
+git push -u origin (nome da branch) - transfere oq foi feito pro github
+git pull - puxa as atualizacoes do github pro vscode
+git branch -b "nome da branch" - pra criar uma branch
+git branch - pra saber em qual branch eu estou
+git checkout -b "nome da branch" - pra mudar da branch
+
+SUPONHAMOS QUE QUEIRO FAZER UMA ATUALIZACAO
+
+1 - git add .
+git commit -
+git push -u origin "nome da branch"
+
+puxando da minha branch para main
+git checkout main 
+git pull origin sua branch
+git push origin main
