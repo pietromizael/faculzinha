@@ -1,0 +1,18 @@
+Versionamento e reúso:
+    Reúso de código é uma prática comum na programação, e é uma das principais vantagens da programação orientada a objetos.
+    O reúso de código é a prática de usar o mesmo código em vários programas diferentes.
+    Isso pode ser feito copiando e colando o código de um programa para outro,
+    ou criando uma biblioteca de funções que pode ser usada em vários programas.
+
+Problemas:
+    Sindrome NIH (Not Invented Here) - A síndrome NIH é um termo usado para descrever a tendência de
+    algumas pessoas de rejeitar soluções existentes em favor de soluções que elas mesmas criaram.
+    Medo de falhas - Algumas pessoas têm medo de usar código de outras pessoas porque temem que ele
+    possa conter bugs ou vulnerabilidades de segurança.
+    Custo de reutilização - Reutilizar código pode ser mais caro do que escrever código novo,
+    especialmente se o código que você está reutilizando não é bem documentado ou não é fácil de entender.
+    Questões legais - Se você estiver reutilizando código de outras pessoas, é importante garantir que
+    você tenha permissão para fazê-lo. Alguns códigos são protegidos por direitos autorais ou licenças.
+    Compreender a parte reutilizada - O que reusar e como reusar.
+    Manutenção - Se o código reutilizado for atualizado, você precisará atualizar o código em todos os
+    lugares onde ele é usado.

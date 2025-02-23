@@ -1,0 +1,6 @@
+VSC = Version Control System
+SCM = Source Code Management
+
+Existem dois tipos de Sistemas de controles de versão:
+- Sistemas de controle de versão centralizados - Composto por um servidor central que armazena todos os arquivos e o histórico de versões.
+- Sistemas de controle de versão distribuídos - Cada desenvolvedor tem uma cópia do repositório em sua máquina local, o que permite que eles trabalhem offline e sincronizem suas alterações com o repositório central quando estiverem online.
