@@ -1,0 +1,13 @@
+As ferramentas de colaboração são softwares ou plataformas que permitem
+o compartilhamento de arquivos e a efetiva comunicação entre os integrantes de um mesmo projeto.
+
+Essas ferramentas são essenciais para a integração e a produtividade de equipes que trabalham.
+
+1-Trello
+2-Jira(Mais direcionado para Scrum)
+3-Slack
+4-Teams
+5-Discord
+6-Asana
+7-Zoom
+

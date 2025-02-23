@@ -1,0 +1,26 @@
+profissional de TI deve ter habilidades básicas de TI
+
+também deve ter hard skills:
+    1-Estudo formal
+    2-Conhecimento fundamental
+    3-Especialista em alguma área e generalista em outras
+
+e soft skills:
+    1-Comunicação
+    2-Trabalho em equipe
+    3-Resolução de problemas
+    4-Adaptabilidade
+    5-Ética
+    6-Organização
+    7-Atenção aos detalhes
+    8-Resiliência
+    9-Criatividade
+    10-Liderança
+    11-Inteligência emocional
+    12-Empatia
+    13-Comunicação não violenta
+    14-Feedback
+    15-Comunicação assertiva
+    16-Comunicação efetiva
+    17-Comunicação interpessoal
+    

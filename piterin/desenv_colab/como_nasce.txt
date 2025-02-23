@@ -1,0 +1,20 @@
+a integração é feita por meio do sistema de controle de versão.
+
+Primeiro passo para criar um software é a definição do problema,
+em seguida a análise e o projeto.
+Depois disso, é feita a implementação, a integração e os testes.
+Por fim, o software é implantado e mantido.
+
+excesso de reuniões pode atrapalhar a produtividade.
+
+Zoom fadigue:
+- cansaço visual
+- dificuldade de concentração
+- dor de cabeça
+- irritabilidade
+- insônia
+- fadiga
+- estresse
+- ansiedade
+- depressão
+- Termo que se refere aos aspectos negativos do uso excessivo de videoconferências.
