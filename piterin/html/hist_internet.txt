@@ -1,0 +1,16 @@
+A internet foi criada durante a Guerra Fria, com o objetivo de manter a comunicação entre as bases militares
+dos Estados Unidos em caso de ataque nuclear.
+
+A primeira mensagem enviada pela internet foi "LO", que seria a palavra "LOGIN", mas o sistema caiu antes
+que a mensagem fosse completada.
+
+PROTOCOLO NCP: O primeiro protocolo de comunicação da internet, criado em 1970.
+FTP: Protocolo de transferência de arquivos.
+SMTP: Protocolo de transferência de correio eletrônico.
+DNS: Sistema de nomes de domínio, que traduz endereços IP em nomes de domínio.
+
+
+TCP/IP: Protocolo de comunicação utilizado na internet.
+HTTP: Protocolo de transferência de hipertexto.
+URL: Localizador de recursos uniforme.
+HTML: Linguagem de marcação utilizada para criar páginas web.

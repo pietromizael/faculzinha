@@ -1,0 +1,5 @@
+Cliente é o computador ou serviço que requisita algo.
+
+Servidor é o computador ou serviço que fornece algo.
+
+Computador -> Modem -> Modela e demodela o sinal -> Roteador -> Dominio -> Servidor que retorna a requisição do cliente.
