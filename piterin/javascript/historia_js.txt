@@ -1,0 +1,25 @@
+Javascript foi desenvolvido em 1995 por Brendan Eich
+
+Desenvolvida pela Netscape
+
+historia dos nomes e versoes do javascript
+    C-minus-minus(cmm)
+    Scriptease
+    EspressoPages(primeiras versoes com suporte web)
+    Mocha
+    LiveScript
+    Javascript
+    JScript(clone feito para o internet explorer)
+    A existencia de muitas versoes do javascript era um problema
+    A padronizacao do javascript foi feita pela ECMA International(European Computer Manufacturers Association) em 1997
+    ECMAScript é a base para as implementacoes do javascript hoje
+
+Javasript responsavel pelo comportamento das paginas web
+Baseada em C
+Simples
+
+Javascript é uma linguagem interpretada
+    O codigo é executado linha por linha
+    O codigo é executado no cliente
+    O codigo é executado no servidor
+
