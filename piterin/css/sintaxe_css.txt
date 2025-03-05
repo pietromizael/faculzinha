@@ -1,0 +1,8 @@
+Sintaxe do css é separada em 3 partes:
+1. Seletor: é o elemento que será estilizado.
+2. Propriedade: é o que será estilizado.
+3. Valor: é o valor da propriedade.
+Exemplo:
+seletor {
+    propriedade: valor;
+}

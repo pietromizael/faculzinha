@@ -1,0 +1,33 @@
+html,
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: #504c4c;
+}
+
+li {
+  transition: all 0.5s;
+  cursor: pointer;
+  background-color: burlywood;
+  width: 200px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  padding: 10px 0;
+  text-align: center;
+}
+
+li:nth-child(even) {
+  transition: 0.5s all;
+  background-color: rgb(108, 108, 221);
+}
+
+li:nth-child(even):hover {
+  background-color: rgb(218, 161, 161);
+}
+
+li:nth-child(even):active {
+  background-color: rgb(218, 161, 161);
+  transform: scale(0.9);
+}
