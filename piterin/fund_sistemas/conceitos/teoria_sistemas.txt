@@ -1,0 +1,24 @@
+modelo genérico de sistema = Entrada -> Sistema -> Saída
+
+TGS(Teoria Geral de Sistemas) = conjunto de elementos interdependentes que interagem com objetivos comuns formando um todo.
+
+Algumas das caracteristicas principais do TGS são:
+1- é aberto, ou seja, está em constante adaptação ao ambiente.
+2- um indivíduo deve obter uma visão holística do sistema, e tomar consciência de que cada parte do sistema contribui para o resto.
+3- é direcionado a objetivos em que cada parte do sistema depende de outra para atingir o objetivo comum, e que o ambiente fornece
+   feedbacks que o sistema interpretará e reagirá.
+4- é auto-organizado quanto ao acordo de que o sistema se adapta ao ambiente.
+
+
+Composição de um sistema: Objetivo -> Entradas -> Processamento -> Saídas -> Controles e avaliações -> Feedbacks
+
+Entradas: são os recursos que o sistema recebe do ambiente.
+Processamento: é a transformação das entradas em saídas.
+Saídas: são os resultados do processamento.
+Controles e avaliações: são os mecanismos que garantem que o sistema atinja seus objetivos.
+Feedbacks: são as informações que o sistema recebe do ambiente para se adaptar.
+
+Representação da finalidade de um Sistema da Informação:
+1- Entrada de dados: são os dados que o sistema recebe.
+2- Processamento de dados: é a transformação dos dados em informações.
+3- Saída de informações: são os resultados do processamento.

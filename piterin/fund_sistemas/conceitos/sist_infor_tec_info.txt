@@ -1,0 +1,26 @@
+Sistema da informação = conjunto de elementos inter-relacionados que coletam, processam,
+armazenam e distribuem informações para apoiar a tomada de decisões e o controle em uma organização.
+
+Tecnologia da informação = conjunto de recursos tecnológicos e computacionais para a geração e uso da informação.
+
+por dados, se entende fatos brutos, sem significado intrínseco, que por si só não são úteis para a tomada de decisões.
+por informação, se entende dados organizados e processados de forma a terem significado e utilidade para quem os utiliza.
+por conhecimento, se entende a informação que foi interpretada e compreendida, e que pode ser utilizada para a tomada de decisões.
+
+Sistemas de informação impresariais quanto a abrangência:
+1-Departamentos(funcionais) - Destinam-se a suprir demandas específicas de um departamento ou área da empresa.
+2-Integrados(ERP) - São sistemas que integram todos os departamentos da empresa, permitindo a visualização de todos os processos.
+3-Interorganizacionais - São sistemas que integram empresas diferentes, permitindo a visualização de todos
+os processos entre as empresas.
+
+Sistemas de informações empresariais quanto ao nivel decisório:
+1-Sistemas de processamento de transações - São sistemas que automatizam o processamento de transações rotineiras.
+2-Sistemas de informações gerenciais - São sistemas que fornecem informações para a tomada de decisões de médio e longo prazo.
+3-Sistemas de informações estraégicas - São sistemas que fornecem informações para a tomada de decisões de longo prazo
+    3-1-Sistemas de apoio a decisão - São sistemas que fornecem informações para a tomada de decisões estratégicas.
+    3-2-Sistemas de apoio a execução - São sistemas que fornecem informações para a tomada de decisões estratégicas.
+
+Nivel operacional: sistemas de processamento de transações
+Nivel gerencial-intermediario: sistemas de informações gerenciais
+Gerencia senior: sistemas de apoio a decisão
+Alta gestão: sistemas de apoio a execução

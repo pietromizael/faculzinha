@@ -1,0 +1,57 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.calculadora {
+  border-radius: 20px;
+  background: linear-gradient(#12ffd7, #c6fdff);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 2rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+label {
+  color: #333;
+  font-size: 20px;
+}
+
+input {
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  width: 50%;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  background: #8a8787;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+  align-self: center;
+  margin-top: 20px;
+}
+
+p {
+  align-self: center;
+}
+
+select {
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+}

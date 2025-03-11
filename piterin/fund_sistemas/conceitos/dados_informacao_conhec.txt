@@ -1,0 +1,3 @@
+Dados = sao fatos brutos, sem significado intrinseco, que por si so nao sao uteis para a tomada de decisoes.
+Informacao = sao dados organizados e processados de forma a terem significado e utilidade para quem os utiliza.
+Conhecimento = e a informacao que foi interpretada e compreendida, e que pode ser utilizada para a tomada de decisoes.

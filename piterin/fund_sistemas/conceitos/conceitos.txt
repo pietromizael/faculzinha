@@ -1,0 +1,13 @@
+para que um sistema funcionem corretamente, é necessaria uma infraestrutura mínima,
+que corresponde a base ou estrutura que suporta um sistema ou organização
+
+temos as informações de entrada que vem do usuário,
+o processamento dessas informações, que é feito pelo sistema,
+como o softwware, o hardware, e a rede de dados, e a saída dessas informações
+que são os resultados do processamento, que são enviados ao usuário.
+
+hardware = equipamentos físicos, como computadores, impressoras, etc.
+software = programas de computador, como sistemas operacionais, aplicativos, etc.
+rede de dados = infraestrutura de comunicação que permite a troca de informações entre os dispositivos.
+
+peopleware = pessoas que utilizam o sistema, como os usuários, analistas, programadores, etc.
